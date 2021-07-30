@@ -1,0 +1,14 @@
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\bin\Debug\netcoreapp3.1\DolarExchange.DataAccess.deps.json
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\bin\Debug\netcoreapp3.1\DolarExchange.DataAccess.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\bin\Debug\netcoreapp3.1\DolarExchange.Model.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\bin\Debug\netcoreapp3.1\DolarExchange.Model.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\obj\Debug\netcoreapp3.1\DolarExchange.DataAccess.csprojAssemblyReference.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\obj\Debug\netcoreapp3.1\DolarExchange.DataAccess.AssemblyInfoInputs.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\obj\Debug\netcoreapp3.1\DolarExchange.DataAccess.AssemblyInfo.cs
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\obj\Debug\netcoreapp3.1\DolarExchange.DataAccess.csproj.CopyComplete
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\obj\Debug\netcoreapp3.1\DolarExchange.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\bin\Debug\netcoreapp3.1\DolarExchange.DataAccess.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\bin\Debug\netcoreapp3.1\DolarExchange.Commons.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\bin\Debug\netcoreapp3.1\DolarExchange.Commons.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\obj\Debug\netcoreapp3.1\DolarExchange.DataAccess.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.DataAccess\obj\Debug\netcoreapp3.1\DolarExchange.DataAccess.pdb

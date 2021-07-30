@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DolarExchange.Business\DolarExchange.Business.csproj" />
+    <ProjectReference Include="..\DolarExchange.DataAccess\DolarExchange.DataAccess.csproj" />
+    <ProjectReference Include="..\DolarExchange.Model\DolarExchange.Model.csproj" />
+  </ItemGroup>
+
+
+</Project>

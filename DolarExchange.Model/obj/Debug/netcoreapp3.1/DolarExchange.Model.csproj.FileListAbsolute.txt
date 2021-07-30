@@ -1,0 +1,9 @@
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\bin\Debug\netcoreapp3.1\DolarExchange.Model.deps.json
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\bin\Debug\netcoreapp3.1\DolarExchange.Model.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\bin\Debug\netcoreapp3.1\DolarExchange.Model.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\obj\Debug\netcoreapp3.1\DolarExchange.Model.AssemblyInfoInputs.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\obj\Debug\netcoreapp3.1\DolarExchange.Model.AssemblyInfo.cs
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\obj\Debug\netcoreapp3.1\DolarExchange.Model.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\obj\Debug\netcoreapp3.1\DolarExchange.Model.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\obj\Debug\netcoreapp3.1\DolarExchange.Model.csproj.CoreCompileInputs.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Model\obj\Debug\netcoreapp3.1\DolarExchange.Model.csprojAssemblyReference.cache

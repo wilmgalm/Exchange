@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xOYQEEHA89b7d8bpyHxabpK83Yjti7d3Pu7VrFOKqwuvr5H+i3/Agcm0BFcMoi2vbj01qKLkdGjCAj2n6o6uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wilme\\source\\repos\\DolarExchange\\DolarExchange.Model\\DolarExchange.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilme\\.nuget\\packages\\mongodb.bson\\2.13.0\\mongodb.bson.2.13.0.nupkg.sha512",
+    "C:\\Users\\wilme\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

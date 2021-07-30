@@ -1,0 +1,16 @@
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.Business.deps.json
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.Business.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\obj\Debug\netcoreapp3.1\DolarExchange.Business.AssemblyInfoInputs.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\obj\Debug\netcoreapp3.1\DolarExchange.Business.AssemblyInfo.cs
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\obj\Debug\netcoreapp3.1\DolarExchange.Business.csprojAssemblyReference.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\obj\Debug\netcoreapp3.1\DolarExchange.Business.csproj.CoreCompileInputs.cache
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.Commons.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.Model.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.Commons.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.Model.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\obj\Debug\netcoreapp3.1\DolarExchange.Business.csproj.CopyComplete
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.Business.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\obj\Debug\netcoreapp3.1\DolarExchange.Business.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\obj\Debug\netcoreapp3.1\DolarExchange.Business.pdb
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.DataAccess.dll
+C:\Users\wilme\source\repos\DolarExchange\DolarExchange.Business\bin\Debug\netcoreapp3.1\DolarExchange.DataAccess.pdb

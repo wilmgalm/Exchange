@@ -1,0 +1,24 @@
+<h1 id="tableLabel">Currency Rate Service</h1>
+
+<p>This component demonstrates fetching data from the /Api/ExchangeRate/GetExchangeRate service.</p>
+
+<p *ngIf="!currencies"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="currencies">
+  <thead>
+    <tr>
+      <th>Sold</th>
+      <th>Bought</th>
+      <th>Description</th>
+      <th>Currency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let currency of currencies">
+      <td>{{ currency.Sold }}</td>
+      <td>{{ currency.Bought }}</td>
+      <td>{{ currency.Description }}</td>
+      <td>{{ currency.Currency_Code }}</td>
+    </tr>
+  </tbody>
+</table>
